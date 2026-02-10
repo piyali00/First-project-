@@ -1,5 +1,5 @@
-# First-project-
-The Chocolate Sales Analysis
+# First-project- A Sales Dashboard
+The Chocolate Sales Analysis. Data taken from Kaggle.
 # 📊 Sales Dashboard (Excel)
 
 ## Project Overview
